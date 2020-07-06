@@ -8,3 +8,4 @@ creates a model to predict life expectancy and machine learning can benefit publ
 researchers with analyzing thousands of variables to obtain data regarding life expectancy.
 
 Model development part is complete, but the deployment is still on the way.
+Need to work on the frontend.
